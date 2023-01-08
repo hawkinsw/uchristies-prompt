@@ -1,3 +1,6 @@
+Note: Begin development of this project with the skeleton code at [./uchristies-skel.tar.gz](./uchristies-skel.tar.gz)
+
+
 ### UC-hristies, the UC Auction House 
 
 Sometimes donors to the University leave rare and valuable assets to the school in their estates. It is school policy that those types of donations be immediately converted to cash, no matter whether or not the asset will likely appreciate in value (I mean, we all know that sometimes what is valuable today will not be valuable tomorrow.). In order to facilitate that liquidation, the school has asked us to write an auction application that will be able to sell anything that is so-called gradable.
